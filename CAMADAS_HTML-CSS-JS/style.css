@@ -1,0 +1,29 @@
+body {
+    /* Aplica imagem no fundo do site */
+    background-image: url(imagens/fundo.jpg);
+    /* Evita repetição da imagem no fundo */
+    background-repeat: no-repeat;
+    /* Aplica a imagem de fundo em 100% da pagina */
+    background-size: 100%;
+    /* Deixa a imagem fixa no site */
+    background-attachment: fixed; 
+    
+}
+
+/* Formata todas as divs do site */
+div {
+    background-color: #ffffff;
+    /* Aplica largura das DIVs site */
+    width: 800px;
+    /* Aplica preenchimento interno de um elemento */
+    padding: 30px;
+    /* Arredonda os angulos */
+    border-radius: 30px;
+    /* Aplicar uma margem de rodapé do elemento */
+    margin-bottom: 30px;
+    
+
+   
+    
+
+}
