@@ -1,0 +1,69 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 800px;
+    margin: 0 auto;
+}
+
+th.inicio {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+th.termino {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+tr.titulo {
+    border: 1px solid #000000;
+    padding: 12px;
+    background-color: #000000;
+    color: #ffffff;
+    
+}
+
+td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    border: 1px solid #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+td.temp {
+    background-color: #a0a0a0;
+}
+
+table.Casas {
+    border-collapse: collapse;
+    width: 800px;
+}
+
+tr.casas2 {
+    border: 1px solid #000000;
+    padding: 12px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+td.houses {
+    background-color: #a0a0a0;
+    font-weight: bolder;
+}
+
+td.Lema {
+    font-style: italic;
+}
