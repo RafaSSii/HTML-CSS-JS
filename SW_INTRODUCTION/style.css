@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(d7a61190a836bdcfc62bf97af4f4c74b.png);
+    color: yellow;
+    font-size: 80px;
+    margin: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2{
+    color: yellow;
+    font-size: 70px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+p{
+    margin: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    animation-name: txt_sw;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+      
